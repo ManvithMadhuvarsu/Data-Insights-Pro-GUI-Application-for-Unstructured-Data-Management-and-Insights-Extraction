@@ -21,29 +21,29 @@ pip install tkinter pandas matplotlib scikit-learn seaborn
    python main_3.py
 ```
 
-   ![image](https://github.com/ManvithMadhuvarsu/Data-Insights-Pro-GUI-Application-for-Unstructured-Data-Management-and-Insights-Extraction/assets/134702597/3fa703da-0142-45dd-9e40-ca269443e7f4)
+![image](https://github.com/ManvithMadhuvarsu/Data-Insights-Pro-GUI-Application-for-Unstructured-Data-Management-and-Insights-Extraction/assets/134702597/3fa703da-0142-45dd-9e40-ca269443e7f4)
 
 
 3. **Upload Data:**
    - Click on the "Upload File" button to upload your dataset (CSV format recommended).
   
-   ![image](https://github.com/ManvithMadhuvarsu/Data-Insights-Pro-GUI-Application-for-Unstructured-Data-Management-and-Insights-Extraction/assets/134702597/7a2c1dc8-5107-4650-a214-5a51824f52e4)
+![image](https://github.com/ManvithMadhuvarsu/Data-Insights-Pro-GUI-Application-for-Unstructured-Data-Management-and-Insights-Extraction/assets/134702597/7a2c1dc8-5107-4650-a214-5a51824f52e4)
 
 
 4. **Visualize Data:**
    - Select the type of visualization you want from the provided options.
    - Visualizations include Histogram, Bar Plot, Pie Chart, Scatter Plot, Line Plot, Heat Map, and Box Plot.
-   ![image](https://github.com/ManvithMadhuvarsu/Data-Insights-Pro-GUI-Application-for-Unstructured-Data-Management-and-Insights-Extraction/assets/134702597/e31b9611-a088-4730-862e-cda044887950)
+![image](https://github.com/ManvithMadhuvarsu/Data-Insights-Pro-GUI-Application-for-Unstructured-Data-Management-and-Insights-Extraction/assets/134702597/e31b9611-a088-4730-862e-cda044887950)
 
 
 5. **Generate Insights:**
    - Use the application to generate visual insights and export them if needed.
-   ![image](https://github.com/ManvithMadhuvarsu/Data-Insights-Pro-GUI-Application-for-Unstructured-Data-Management-and-Insights-Extraction/assets/134702597/c33fce97-50fb-4884-8f8e-ecfd50531a22)
+![image](https://github.com/ManvithMadhuvarsu/Data-Insights-Pro-GUI-Application-for-Unstructured-Data-Management-and-Insights-Extraction/assets/134702597/c33fce97-50fb-4884-8f8e-ecfd50531a22)
 
 
 6. **Download Reports:**
    - Download the preprocessed dataset and the report including visualizations and data info.
-   ![image](https://github.com/ManvithMadhuvarsu/Data-Insights-Pro-GUI-Application-for-Unstructured-Data-Management-and-Insights-Extraction/assets/134702597/9cd89118-ee59-4303-b703-f116a7b8f8f4)
+![image](https://github.com/ManvithMadhuvarsu/Data-Insights-Pro-GUI-Application-for-Unstructured-Data-Management-and-Insights-Extraction/assets/134702597/9cd89118-ee59-4303-b703-f116a7b8f8f4)
 
 
 ## Example
