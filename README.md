@@ -20,14 +20,18 @@ pip install tkinter pandas matplotlib scikit-learn seaborn
 
    python main_3.py
 
-2. **Upload Data:**
+
+   ![image](https://github.com/ManvithMadhuvarsu/Data-Insights-Pro-GUI-Application-for-Unstructured-Data-Management-and-Insights-Extraction/assets/134702597/3fa703da-0142-45dd-9e40-ca269443e7f4)
+
+
+3. **Upload Data:**
    - Click on the "Upload File" button to upload your dataset (CSV format recommended).
 
-3. **Visualize Data:**
+4. **Visualize Data:**
    - Select the type of visualization you want from the provided options.
    - Visualizations include Histogram, Bar Plot, Pie Chart, Scatter Plot, Line Plot, Heat Map, and Box Plot.
 
-4. **Generate Insights:**
+5. **Generate Insights:**
    - Use the application to generate visual insights and export them if needed.
 
 ## Example
